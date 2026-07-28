@@ -26,6 +26,7 @@ Functions included in this repository are as follows:
 
   1. Cumulative histogram
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/af9fc8b5-a21a-43db-a340-51425d491e8c" />
+  
   2. Radial sum
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/739fffe9-8861-4ca6-a632-20caf9d0584e" />
 
