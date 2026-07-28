@@ -33,7 +33,9 @@ Functions included in this repository are as follows:
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/739fffe9-8861-4ca6-a632-20caf9d0584e" />
   
   
-  3.Radial mean <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/0508a7a1-b55f-49e5-b683-7a5377a5efab" />
+  3.Radial mean 
+  
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/0508a7a1-b55f-49e5-b683-7a5377a5efab" />
 
 
   4. Scalar metrics#1
