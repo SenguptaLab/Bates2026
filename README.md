@@ -4,6 +4,10 @@ Code repository
 
 This repository contains MATLAB image analysis code used to quantify GFP reporter expression and sub-cellular localization. Code has only been verified to work 
 on MATLAB2023b and will not work on older versions (pre addition of volshow 2017a) or more recent versions which have updated UI figure drawing/viewer syntax. 
+
+DEPENDENCIES
+Image processing toolbox
+
 Functions included in this repository are as follows:
 
   measureCTCF: Intensity threshold-based ROI detection and selection from a directory of .ims 3D volumes, returns per ROI CTCF calculation 
