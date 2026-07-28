@@ -23,5 +23,6 @@ Functions included in this repository are as follows:
   
   replay_figure: plotting function to visualize results contained in the average_cell_intensity output structure and produce mean projections of aligned cells.
   Produces the following plots
-  <img width="560" height="420" alt="Cumulative Histogram" src="https://github.com/user-attachments/assets/af9fc8b5-a21a-43db-a340-51425d491e8c" />
+  
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/af9fc8b5-a21a-43db-a340-51425d491e8c" /> <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/739fffe9-8861-4ca6-a632-20caf9d0584e" />
 
