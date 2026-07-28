@@ -3,8 +3,9 @@ A repressive regulatory cascade shapes temporal patterning of activity-regulated
 Code repository
 
 This repository contains MATLAB image analysis code used to quantify GFP reporter expression and sub-cellular localization. Code has only been verified to work 
-on MATLAB2023b and will not work on older versions (pre addition of volshow 2017a) or more recent version which have updated UI figure drawing/viewer syntax. 
+on MATLAB2023b and will not work on older versions (pre addition of volshow 2017a) or more recent versions which have updated UI figure drawing/viewer syntax. 
 Functions included in this repository are as follows:
+
   measureCTCF: Intensity threshold-based ROI detection and selection from a directory of .ims 3D volumes, returns per ROI CTCF calculation 
   (mean(ROI_intensity) x ROI_area) - (Background_intensity x ROI_area) and uncorrected mean as Nx2 array.
   
@@ -30,4 +31,29 @@ Functions included in this repository are as follows:
   
   2. Radial sum
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/739fffe9-8861-4ca6-a632-20caf9d0584e" />
+
+
+  3.Radial mean
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/0508a7a1-b55f-49e5-b683-7a5377a5efab" />
+
+
+  4. Scalar metrics#1
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/f5702347-f43e-4216-924e-f89ef4051a79" />
+
+
+  5+6. Line scan and column mean profiles
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/958b434f-caaa-4bbc-bd2a-aaf6ee8abbd7" />
+
+
+  7-9. Metric distributions
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/905be30f-fb4c-48de-98d5-200aeb47d347" />
+
+
+  10. Scalar metrics#2
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/4677f525-9a5b-4ce4-924d-acc972b99e8c" />
+
+
+
+
+
 
