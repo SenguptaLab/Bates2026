@@ -53,10 +53,17 @@ Functions included in this repository are as follows:
 
 
   7-9. Metric distributions
+
+
+
+  
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/905be30f-fb4c-48de-98d5-200aeb47d347" />
 
 
   10. Scalar metrics#2
+
+
+
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/4677f525-9a5b-4ce4-924d-acc972b99e8c" />
 
 
