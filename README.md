@@ -22,5 +22,6 @@ Functions included in this repository are as follows:
   aligns all input projections over their annotated nuclei. Outputs a struct with fields containing the many different metrics.
   
   replay_figure: plotting function to visualize results contained in the average_cell_intensity output structure and produce mean projections of aligned cells.
-  <img width="560" height="420" alt="image" title="Cum Hist" src="https://github.com/user-attachments/assets/af9fc8b5-a21a-43db-a340-51425d491e8c" />
+  
+  <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/af9fc8b5-a21a-43db-a340-51425d491e8c" />
 
