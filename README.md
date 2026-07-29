@@ -33,22 +33,22 @@ Functions included in this repository are as follows:
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/af9fc8b5-a21a-43db-a340-51425d491e8c" />
   
   
-  2. Radial sum
+2. Radial sum
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/739fffe9-8861-4ca6-a632-20caf9d0584e" />
   
   
-  3.Radial mean 
+3.Radial mean 
 
 
   
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/0508a7a1-b55f-49e5-b683-7a5377a5efab" />
 
 
-  4. Scalar metrics#1
+4. Scalar metrics#1
   <img width="560" height="420" alt="image" src="https://github.com/user-attachments/assets/f5702347-f43e-4216-924e-f89ef4051a79" />
 
 
-  5+6. Line scan and column mean profiles
+5+6. Line scan and column mean profiles
 
 
 
@@ -58,7 +58,7 @@ Functions included in this repository are as follows:
 
 
 
-  7-9. Metric distributions
+7-9. Metric distributions
 
 
 
