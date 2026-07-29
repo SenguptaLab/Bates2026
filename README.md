@@ -3,7 +3,8 @@ A repressive regulatory cascade shapes temporal patterning of activity-regulated
 Code repository
 
 This repository contains MATLAB image analysis code used to quantify GFP reporter expression and sub-cellular localization. Code has only been verified to work 
-on MATLAB2023b and will not work on older versions (pre addition of volshow 2017a) or more recent versions which have updated UI figure drawing/viewer syntax. 
+on MATLAB2023b and will not work on older versions (pre addition of volshow 2017a) or more recent versions which have updated UI figure drawing/viewer syntax.
+All functions are designed to work with .ims files.
 
 Depends on Image processing toolbox addon
 
